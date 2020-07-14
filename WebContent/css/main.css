@@ -191,3 +191,10 @@ body {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+.logo{
+	width: 150px;
+    height: 50px;
+    margin-top: -27px;
+    margin-bottom: -20px;
+}
