@@ -14,8 +14,9 @@ body {
 
 .nav-link,
 .navbar-brand {
-  color: #fff;
+  color: #111;
   cursor: pointer;
+  font-weight: bold;
 }
 
 .nav-link {
